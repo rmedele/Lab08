@@ -16,6 +16,10 @@ public class CustomList {
 
     
 
-    // Will be implemented later using TDD (leave blank for now)
+    // added
+
+    public boolean hasCity(City city) {
+        return cities.contains(city);
+    }
     // public boolean hasCity(City city) { ... }
 }
