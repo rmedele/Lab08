@@ -1,5 +1,7 @@
 package com.example.lab08;
 
+
+// testing CI pipeline
 public class City {
     private String city;
     private String province;
