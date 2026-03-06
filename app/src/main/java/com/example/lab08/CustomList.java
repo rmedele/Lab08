@@ -22,4 +22,11 @@ public class CustomList {
         return cities.contains(city);
     }
     // public boolean hasCity(City city) { ... }
+
+    //delete city
+    public void deleteCity(City city) {
+        cities.remove(city);
+    }
+
+
 }
